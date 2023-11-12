@@ -19,8 +19,7 @@ dans le même répertoire que le fichier exécutable :
 ./mustache.exe # sur Windows
 ```
 
-Ou vous pouvez ajouter le fichier exécutable à votre variable
-d'environnement `PATH`.
+Ou vous pouvez ajouter le fichier exécutable à votre `PATH`.
 
 ### Utilisation
 
