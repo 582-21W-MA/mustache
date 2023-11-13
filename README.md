@@ -15,8 +15,7 @@ Mac et Windows. Vous pouvez exécuter ces programmes en spécifiant leur chemin 
 dans le même répertoire que le fichier exécutable :
 
 ```sh
-./mustache # sur Mac
-./mustache.exe # sur Windows
+./mustache
 ```
 
 Ou vous pouvez ajouter le fichier exécutable à votre `PATH`.
